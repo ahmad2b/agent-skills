@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visual Creator"
+  short_description: "Create editorial visuals for articles and social posts"
+  default_prompt: "Use $visual-creator to create a polished editorial visual for this article or social post."
