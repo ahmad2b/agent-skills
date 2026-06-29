@@ -20,8 +20,9 @@ Prefer:
 - simple composition over visual density
 - short readable text over clever but unclear wording
 - calm authority over loud promotion
+- premium craft applied to light editorial visuals
 
-Avoid generic AI visuals, robots, brains, dashboards, UI cards, stock-photo style, dense diagrams, packed icons, brand imitation, and checklist-as-art.
+Avoid generic AI visuals, robots, brains, dashboards, UI cards, stock-photo style, dark glassmorphism, neon cyber aesthetics, dense diagrams, packed icons, brand imitation, and checklist-as-art.
 
 ## Non-Negotiable Intake Rule
 
@@ -65,9 +66,25 @@ Treat the image like an editorial layout, not just a generated scene. Check thes
 - **Fade or transition:** if illustration approaches text, fade, soften, or simplify it before it reaches the text zone.
 - **Crop safety:** the design still works as a thumbnail, feed image, or link preview.
 
+## Premium Craft
+
+Borrow the discipline of high-end visual design without borrowing its dark SaaS aesthetic.
+
+Use:
+
+- clear focal hierarchy
+- disciplined spacing and macro-whitespace
+- crisp primary forms with softer supporting texture
+- controlled, paper-like depth instead of heavy synthetic shadows
+- coherent material language: ink, paper, translucent wash, cut-paper layers, or tactile sketch marks
+- typography with editorial character, not generic slide-title type
+- subtle texture or grain that feels physical, not decorative noise
+
+Avoid glossy glass panels, cinematic black backgrounds, glowing neon cores, heavy 3D modules, and interface-like containers unless the user explicitly asks for that style.
+
 ## Visual Taste
 
-Use a simple editorial style:
+Use a simple light editorial style:
 
 - light muted backgrounds: pale mint, blue-gray, soft green, warm off-white, paper white
 - charcoal or dark neutral text/linework
@@ -115,5 +132,6 @@ Before calling a visual final, check:
 - Is the text exact, readable, and placed in a quiet zone?
 - Are safe area, margins, gutter, alignment, hierarchy, balance, and crop safety handled?
 - Does any illustration near the text fade or simplify before it crowds the text?
+- Does the craft feel premium without becoming dark, glossy, 3D, or SaaS-like?
 - Is the visual simple, balanced, and platform-appropriate?
 - Did it avoid generic AI, interface metaphors, clutter, and stock aesthetics?
