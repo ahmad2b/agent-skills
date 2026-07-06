@@ -1,0 +1,4 @@
+interface:
+  display_name: "Editor"
+  short_description: "Run an editor-led process for articles, posts, replies, and publishable writing"
+  default_prompt: "Use $editor to clarify, draft, review, and iterate this writing task into publishable copy."
