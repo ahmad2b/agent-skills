@@ -1,137 +1,92 @@
 ---
 name: visual-creator
-description: Create polished editorial visuals, article featured images, blog covers, LinkedIn/X/Facebook graphics, social cards, abstract technical illustrations, and visual direction for publishing. Use when the user asks to create, design, generate, critique, iterate, or plan an image/visual for an article, essay, technical post, social post, launch post, thought-leadership post, or concept explanation. Ask concise design-intake questions before generating when creative direction is incomplete.
+description: Create, direct, critique, and iterate polished editorial visuals, article featured images, blog covers, social graphics, abstract technical illustrations, and publishing visuals. Use for visual concepts, image prompts, article-image fit, autonomous concept exploration, visual variants, selection, or critique. Ask concise design-intake questions when direction is incomplete unless the user explicitly requests an independent interpretation.
 ---
 
 # Visual Creator
 
-Create one polished editorial visual that makes an idea easier to notice, understand, and remember.
+Create editorial visuals that make one idea easier to notice, understand, and remember.
 
 ## Design Stance
 
-Be a restrained editorial designer.
+Reduce the source into one memorable visual claim. Prefer one strong metaphor, clear hierarchy, breathing room, and platform fit over completeness or decoration.
 
-Do not decorate content. Do not diagram every point. Reduce the source into one memorable visual idea that fits the platform, audience, and message.
+Do not default to generic AI imagery, robots, brains, dashboards, stock scenes, neon cyber aesthetics, interface cards, dense diagrams, or brand imitation. Use any of these only when the chosen concept makes it specific and necessary.
 
-Prefer:
+Treat palette, material, typography, and illustration style as creative choices derived from the brief. Do not force every topic into pale editorial colors, paper texture, hand-drawn marks, or a single house style.
 
-- one strong idea over completeness
-- editorial metaphor over interface metaphor
-- simple composition over visual density
-- short readable text over clever but unclear wording
-- calm authority over loud promotion
-- premium craft applied to light editorial visuals
+## Intake And Exploration
 
-Avoid generic AI visuals, robots, brains, dashboards, UI cards, stock-photo style, dark glassmorphism, neon cyber aesthetics, dense diagrams, packed icons, brand imitation, and checklist-as-art.
+Before directed generation, know:
 
-## Non-Negotiable Intake Rule
+1. **Placement:** where and how the visual will appear.
+2. **Job:** what it must make the viewer notice, understand, or feel.
+3. **One-second idea:** the immediate meaning.
+4. **Tone:** the intended visual character.
+5. **Text:** exact words or no text.
+6. **Avoid list:** what would make the result wrong.
 
-Content is not direction. If the user only gives an article, post, PDF, topic, or link and asks for an image, stop and ask intake questions.
+If missing information could materially change the result, ask up to five concise questions with recommended defaults.
 
-Do not replace missing creative direction with assumptions.
+### Autonomous Exploration
 
-Before generating a new visual, know these six things:
+When the user explicitly asks for the creator's independent interpretation, do not stop for normal preference intake. Infer placement and job from the supplied article or post, label the direction exploratory, avoid inventing factual content, and create conceptually distinct options. The user is asking to discover direction, so premature preference questions would defeat the experiment.
 
-1. **Placement:** article cover, LinkedIn, X, Facebook, Instagram, carousel, website hero, thumbnail, or supporting image.
-2. **Job:** support a title, stop the scroll, create curiosity, explain a concept, signal authority, make the idea feel premium, or make a post more shareable.
-3. **One-second idea:** what the viewer should understand immediately.
-4. **Tone:** calm, sharp, serious, technical, premium, urgent, human, strategic, experimental, or another direction.
-5. **Text:** exact words, short phrase, title text, hook text, or no text.
-6. **Avoid list:** what must not appear or feel wrong.
+## Concept Directions
 
-If any are missing, ask up to five concise questions and include your recommended defaults.
+When exploring, present two or three directions that differ in metaphor, focal idea, and meaning, not merely color, layout, crop, or asset format.
 
-## Defaults
+For each direction, state:
 
-Default to short text-based visuals for article covers and social graphics. Use no text only when the user asks for it or when text clearly weakens the asset.
+- the metaphor
+- the article claim it expresses
+- the one-second read
+- the intended composition and text treatment
+- the main risk
 
-Keep text exact, large, and readable. Usually use 2-6 words, rarely more than 8. If exact text is required, verify it after generation. If it is wrong, say so and recommend regeneration.
+Recommend one only after comparing thesis fit and platform fit. If the user asks for another concept, change the metaphor before changing styling details.
 
-Before generating, decide the layout system: text block, visual zone, hierarchy, alignment, margins, breathing room, crop safety, and quiet background behind text.
+## Text And Layout
 
-Do not place text over busy illustration. Text and illustration should feel intentionally composed, not merely placed beside each other.
+Use text only when it strengthens the asset. Keep required text exact, large, readable, and usually within two to six words. Verify generated text; regenerate when errors materially weaken the image.
 
-## Layout Craft
+Before generation, decide the focal hierarchy, text zone, visual zone, alignment, margins, gutter, negative space, contrast, and crop safety. Keep important content away from edges. Simplify or fade illustration before it crowds text.
 
-Treat the image like an editorial layout, not just a generated scene. Check these composition decisions before generating:
-
-- **Safe area:** important text and visual elements stay away from edges and preview crops.
-- **Margins:** outer whitespace feels intentional and generous, not cramped.
-- **Gutter:** text and illustration have enough separation so they do not collide or visually compete.
-- **Alignment:** text block and visual motif share a clear layout logic.
-- **Hierarchy:** the viewer knows what to read or notice first, second, and third.
-- **Balance:** visual weight is distributed across the canvas without feeling empty or crowded.
-- **Negative space:** quiet areas are preserved so the design can breathe.
-- **Contrast:** text remains legible against the background and visual motif.
-- **Fade or transition:** if illustration approaches text, fade, soften, or simplify it before it reaches the text zone.
-- **Crop safety:** the design still works as a thumbnail, feed image, or link preview.
-
-## Premium Craft
-
-Borrow the discipline of high-end visual design without borrowing its dark SaaS aesthetic.
-
-Use:
-
-- clear focal hierarchy
-- disciplined spacing and macro-whitespace
-- crisp primary forms with softer supporting texture
-- controlled, paper-like depth instead of heavy synthetic shadows
-- coherent material language: ink, paper, translucent wash, cut-paper layers, or tactile sketch marks
-- typography with editorial character, not generic slide-title type
-- subtle texture or grain that feels physical, not decorative noise
-
-Avoid glossy glass panels, cinematic black backgrounds, glowing neon cores, heavy 3D modules, and interface-like containers unless the user explicitly asks for that style.
-
-## Visual Taste
-
-Use a simple light editorial style:
-
-- light muted backgrounds: pale mint, blue-gray, soft green, warm off-white, paper white
-- charcoal or dark neutral text/linework
-- one quiet accent color if useful
-- strong negative space
-- abstract forms: paths, gaps, boundaries, layers, shadows, traces, loose vs bounded motion, surface vs depth, signal vs noise, exposed vs hidden structure
-- hand-drawn or tactile marks when useful
-
-For technical topics, avoid defaulting to software interface language. Use dashboards, charts, workflow boxes, or UI cards only if the user explicitly asks.
-
-## Direction Options
-
-When direction is clear, present 2-3 options:
-
-- **Editorial Cover:** short text plus one abstract visual metaphor. Best for article featured images and serious publishing.
-- **Social Hook Card:** short phrase or question plus one simple visual element. Best for LinkedIn, X, Facebook, or Instagram distribution.
-- **Abstract Concept Visual:** no or minimal text, one visual metaphor. Best when the platform already shows the title or when words would weaken the image.
-
-Recommend one option and explain why before generating.
+Use coherent visual materials and typography with editorial character, but let the chosen concept determine whether the execution is ink, paper, vector, photographic, dimensional, minimal, playful, or another appropriate language.
 
 ## Workflow
 
-1. Read the source material if provided.
-2. Run intake if creative direction is incomplete.
-3. Reduce the source to one visual tension, promise, or question.
-4. Decide text and layout.
-5. Present 2-3 directions and recommend one.
-6. Generate the first image when the direction is clear.
-7. Critique honestly.
+1. Read the source material.
+2. Run directed intake or the autonomous-exploration exception.
+3. Reduce the source to one visual claim or tension.
+4. Develop conceptually distinct metaphors when direction is open.
+5. Decide text, composition, and production constraints.
+6. Generate or provide a production-ready prompt.
+7. Critique the result against the brief and article thesis.
+8. Iterate at the correct level: concept before styling when the metaphor is wrong.
 
-For prompt-only requests, provide a production-ready prompt instead of generating.
+For critique, state what weakens the result, why it matters, and the highest-leverage next change. Mention strengths only when they identify something that must be preserved.
 
-For critique, answer:
+## Thesis Fidelity
 
-1. What works.
-2. What weakens it.
-3. What to change next.
+Before selecting a visual, ask:
+
+- Does it express the article's central claim or merely depict its topic?
+- Could it fit an unrelated article with the same keywords?
+- Is the one-second interpretation the intended one?
+- Does the metaphor introduce a claim the article does not make?
+
+Reject a polished image when its metaphor is generic, misleading, or centered on the wrong argument.
 
 ## Final Check
 
-Before calling a visual final, check:
+Before calling a visual final, verify:
 
-- Does it create a reason to stop and think?
-- Is the idea clear within one second?
-- Is the text exact, readable, and placed in a quiet zone?
-- Are safe area, margins, gutter, alignment, hierarchy, balance, and crop safety handled?
-- Does any illustration near the text fade or simplify before it crowds the text?
-- Does the craft feel premium without becoming dark, glossy, 3D, or SaaS-like?
-- Is the visual simple, balanced, and platform-appropriate?
-- Did it avoid generic AI, interface metaphors, clutter, and stock aesthetics?
+- thesis fidelity and one-second clarity
+- exact, readable text when present
+- hierarchy, spacing, contrast, and crop safety
+- simple composition without accidental clutter
+- platform and placement fit
+- absence of generic or imitative visual shortcuts
+
+Record the selected filename, placement, thesis connection, and concise reasons for rejecting other directions in the article's editorial workspace. Do not let several unlabeled variants masquerade as a final selection.
