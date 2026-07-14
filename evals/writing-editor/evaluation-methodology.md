@@ -142,7 +142,7 @@ Every trial should preserve:
 - exact task prompt and source manifest;
 - skill commit and dependency versions;
 - model, tool, permission, and resource configuration;
-- complete observable transcript and tool trace;
+- complete observable transcript and tool trace, retained as a run artifact rather than committed by default;
 - generated and modified files;
 - deterministic assertion results;
 - per-grader outputs and evidence;

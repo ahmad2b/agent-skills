@@ -1,3 +1,0 @@
-Reading additional input from stdin...
-2026-07-14T13:04:56.782812Z ERROR codex_core::tools::router: error=collab spawn failed: no thread with id: 019f60b9-0dfd-7260-a00f-eb6a06b6ea93
-2026-07-14T13:06:10.542246Z ERROR codex_core::tools::router: error=collab spawn failed: no thread with id: 019f60b9-0dfd-7260-a00f-eb6a06b6ea93

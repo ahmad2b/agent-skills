@@ -51,7 +51,7 @@ An agent should not be penalized for avoiding a weak draft before showing it. It
 ## Industry-Grounded Design Principles Already Identified
 
 - Use curated real cases, regressions, trajectories, adversarial cases, deterministic assertions, human review, pairwise comparison, and human-calibrated judges.
-- Treat each run as a trial and preserve its complete observable transcript.
+- Treat each run as a trial and preserve its complete observable transcript in local, CI, or artifact storage rather than Git by default.
 - Run multiple trials because outputs vary.
 - Randomize candidate order in pairwise evaluation.
 - Separate development/calibration cases from held-out cases.

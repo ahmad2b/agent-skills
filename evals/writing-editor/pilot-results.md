@@ -53,11 +53,6 @@ The evidence supports retaining its canonical-state, revision-ledger, deliverabl
 
 No skill file was changed during this pilot.
 
-## Trial Artifacts
+## Raw Trial Artifacts
 
-- `runs/docker1c-autonomous-baseline/`
-- `runs/docker1c-autonomous-revised/`
-- `runs/docker1c-replay-baseline/`
-- `runs/docker1c-replay-revised/`
-
-Each folder contains the manifest, raw transcript, stderr, exit status, deterministic checks, final assistant message, and generated workspace artifacts.
+Raw transcripts, generated workspaces, stderr logs, manifests, exit files, and run-specific hashes are execution artifacts rather than evaluation data. They are generated under `runs/`, retained locally or by CI/artifact storage when needed, and intentionally excluded from Git. Only deliberately curated regression fixtures should be promoted into the versioned dataset.
