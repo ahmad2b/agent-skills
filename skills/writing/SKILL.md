@@ -1,114 +1,125 @@
 ---
 name: writing
-description: "Write, shape, revise, and improve articles, essays, social posts, comments, replies, threads, and other publishable prose. Use when turning rough thinking, notes, sources, research, or a topic into clear finished writing, including article distribution posts and public replies. Focus on reader value, angle, structure, evidence, voice, clarity, adaptation, revision, and final quality."
+description: "Write, shape, revise, and improve articles, essays, social posts, comments, replies, threads, and other publishable prose. Use when the user wants to turn rough thinking, notes, sources, research, or a topic into clear finished writing. Focus on writing craft: reader value, angle, structure, evidence, voice, clarity, revision, and final quality."
 ---
 
 # Writing
 
-Turn ideas, sources, notes, and drafts into clear, useful, publishable prose. This skill provides writing craft; it does not own workspaces, approval state, or editorial orchestration.
+Turn ideas, sources, notes, and rough drafts into clear, useful, publishable prose.
+
+This skill provides writing craft. It is not tied to any workspace, app, tool, approval process, or agent architecture.
 
 ## Writing Behavior
 
-- Find the real tension behind the topic.
-- Define the reader by situation, maturity, problem, or desired progress.
-- Identify the reader's before-state and useful after-state.
-- Reduce scattered material into one central claim and make every branch serve it.
-- Put reader value early and remove true but nonessential material.
-- Use sources as grounding, evidence, contrast, or inspiration; do not default to summarizing them.
-- Preserve the author's taste and intent.
-- Diagnose structural problems before polishing sentences.
+Do these deliberately:
 
-Avoid generic thought leadership, inflated claims, forced storytelling, unstructured listicles, vague transformation language, and marketing tone unless requested.
+- Find the real tension behind the topic, not just the topic itself.
+- Define the reader by situation, problem, maturity, or desired progress, not only job title.
+- Identify what the reader already understands, what they are missing, and what should change after reading.
+- Reduce scattered material into one central claim before drafting.
+- Turn many facts into branches under one argument.
+- Remove true but nonessential material when it weakens the piece.
+- Put reader value early instead of making the reader wait through setup.
+- Use sources as grounding, evidence, contrast, or inspiration; do not default to summarizing them.
+- Preserve the author's taste and intent instead of replacing it with generic polish.
+- Separate structural problems from sentence-level problems.
+- Revise the highest-leverage issue before polishing language.
+
+Avoid generic thought leadership, vague transformation language, inflated claims, forced storytelling, listicles without a spine, and writing that sounds like marketing unless the user explicitly asks for marketing.
 
 ## Writing Brief
 
-Before drafting or revising, know:
+Before drafting, shaping, or revising, understand the writing problem well enough to answer:
 
-- **Reader and state:** who this is for and what they currently believe, feel, miss, or need.
-- **After-state and promise:** what becomes clearer, easier, safer, more possible, or actionable.
-- **Central claim:** the one argument the piece must make useful.
-- **Piece shape and backbone:** the form and sequence that best deliver the promise.
-- **Source role and evidence standard:** what grounds the claims and what remains provisional.
-- **Depth, tone, and taste boundary:** how far to go and what the prose must not sound like.
-- **Output:** article, post, reply, thread, critique, outline, draft, or final copy.
+- **Reader:** who this is for, defined by problem, situation, maturity, or desired progress.
+- **Reader state:** what they believe, feel, miss, or misunderstand before reading.
+- **After-state:** what should become clearer, easier, safer, more urgent, or more possible after reading.
+- **Central claim:** the one argument the piece must prove or make useful.
+- **Piece shape:** diagnostic, argument, field guide, critique, explainer, checklist, narrative, reply, post, or another deliberate form.
+- **Structural backbone:** the sections or moves that should carry the piece.
+- **Source role:** whether sources are foundation, evidence, inspiration, contrast, or something being explained.
+- **Depth:** strategic, practical, technical, narrative, opinionated, brief, or a blend.
+- **Tone:** how it should sound.
+- **Taste boundary:** what it must not sound like.
+- **Output:** article, post, comment, reply, thread, essay, draft, outline, critique, or final copy.
 
-Ask pointed questions when missing answers would materially change the result. Inspect supplied sources before asking questions they can answer.
-
-Reduce substantial pieces to one trunk:
-
-> This piece helps [reader] move from [before-state] to [after-state] by showing [central claim].
+Ask pointed questions when these are missing. Include a recommended answer when useful. If source material can answer a question, inspect the source instead of asking.
 
 ## Writing Concepts
 
-Use these as diagnostic vocabulary, not a visible template:
+Use these concepts as writing and revision vocabulary, not a rigid template. A piece does not need to expose each concept as a visible section, but the writer should know how each one is being handled.
 
-- **Angle:** the particular argument, tension, or lens that makes the topic useful.
-- **Lede:** the opening move that earns the next paragraph without hype.
-- **Nut graf:** the early promise of what the piece is about and why it matters.
-- **Throughline:** the thread that makes each section require the next.
-- **Evidence standard:** the proof needed for the claims.
-- **Turn:** where the reader's initial framing becomes insufficient.
-- **Cut line:** what stays out even when true or interesting.
-- **Ending job:** the decision, standard, question, next step, or changed frame left behind.
+- **Angle:** the specific way into the topic. The angle turns a broad subject into a particular argument, tension, or useful lens.
+- **Lede:** the opening move that earns attention. It should make the reader want the next paragraph without resorting to hype.
+- **Nut graf:** the early paragraph or passage that makes the piece's promise clear: what this is about, why it matters, and why now.
+- **Throughline:** the thread that carries the reader from beginning to end. If the draft feels like separate good points, the throughline is weak.
+- **Reader promise:** what the reader gets for continuing: clarity, a decision aid, a mental model, a warning, a method, or a sharper way to see the problem.
+- **Evidence standard:** the proof the piece needs for its claims: source material, examples, data, lived operational detail, expert judgment, or current research.
+- **Turn:** the point where the reader's understanding changes. A strong piece usually has at least one moment where the obvious framing becomes insufficient.
+- **Cut line:** the boundary for what does not belong, even if it is true or interesting.
+- **Ending job:** what the final section must leave behind: a decision, a standard, a useful question, a practical next step, or a changed frame.
 
-When a draft feels weak, identify the missing concept before rewriting. Fix the highest-leverage issue first.
+When a draft feels weak, diagnose it using these concepts before rewriting. Do not fix every sentence when the real problem is a missing angle, late nut graf, weak throughline, unclear reader promise, unsupported claim, absent turn, or ending that only repeats.
+
+## The Trunk
+
+Before drafting or restructuring, reduce the piece to one trunk:
+
+> This piece helps [reader] move from [before-state] to [after-state] by showing [central claim].
+
+Use this trunk to decide what belongs. Every section or sentence should strengthen the trunk, make it concrete, answer an objection, or help the reader apply it.
 
 ## Sources
 
+Use sources to improve the writing, not to outsource judgment.
+
 When source material is provided:
 
-- identify its core model, claim, and evidence
-- decide what the piece applies, extends, translates, critiques, or explains
+- identify the source's core model, evidence, or claim
+- decide what the piece will apply, extend, translate, critique, or explain
+- avoid repeating the source structure unless that is the point
 - distinguish source claims from the author's claim
-- avoid reproducing the source structure unless that is the purpose
-- add attribution or further reading when credibility requires it
+- add attribution or further reading when publishing credibility depends on it
 
-Verify current facts, laws, products, standards, public claims, and technical details before treating them as true.
+When current facts, laws, products, standards, public claims, or technical details matter, verify them with reliable current sources before treating them as true.
 
 ## Drafting And Revision
 
-Draft for structure and meaning before polish. For revision, diagnose angle, lede, nut graf, throughline, evidence, tone, shape, structure, or language before changing prose. Preserve what already serves the promise.
+For new writing, draft for structure and meaning before polish. Choose the angle, reader promise, piece shape, evidence standard, and throughline before optimizing sentences.
 
-## Distribution Writing
-
-An article-sharing post is a useful standalone artifact, not a teaser stripped of substance.
-
-- Lead with the article's perspective or value, not automatic problem-solution buildup.
-- State enough of the central claim that a non-clicking reader still gains the core idea.
-- Explain the key term or mechanism when the claim depends on it.
-- Keep the link secondary to the post's value.
-- Adapt the article to the platform's audience, length, and rhythm; do not merely truncate it.
-- Verify hard limits such as character count when they apply.
-- Keep every claim inside the article's evidence boundary.
-
-## Public Replies
-
-For a comment or reply:
-
-1. Identify the exact point being made.
-2. Acknowledge or naturally mirror that point without formulaic agreement.
-3. Add at most one useful extension when one is needed.
-4. Check alignment with the source piece and avoid stronger claims than it supports.
-5. Prefer the shortest natural response that completes the conversational job.
-
-A reaction alone is appropriate when no clarification, extension, or relationship signal needs words.
+For existing drafts, diagnose before rewriting. Identify whether the issue is angle, lede, nut graf, throughline, evidence, tone, structure, piece shape, or sentence-level execution. Preserve what is working and revise the highest-leverage problem first. If a draft is correct but broad, revise the assignment and structure before polishing sentences.
 
 ## Self-Revision Check
 
-Before treating prose as ready, check:
+Before treating writing as ready, check:
 
-- Does it deliver the promised value early?
-- Is there one argument and an appropriate piece shape?
-- Is the source applied accurately rather than summarized?
-- Are claims specific and earned?
-- Does each section or sentence create useful movement?
-- Does the tone match the taste boundary?
-- Is the depth appropriate without padding?
-- Can the language become simpler without losing meaning?
-- Does the ending land rather than merely stop?
+- **Promise:** does it deliver what the brief says it should deliver?
+- **Value upfront:** does the reader understand why this matters early?
+- **Single argument:** is there one trunk, or many scattered trees?
+- **Piece shape:** is the draft using the right form for the promise, or explaining when it should diagnose, argue, guide, or help decide?
+- **Reader usefulness:** does it help the reader evaluate, decide, avoid, understand, or act?
+- **Source alignment:** does it use sources accurately without becoming a source summary?
+- **Specificity:** are the claims concrete enough to feel earned?
+- **Flow:** does each section naturally make the next one necessary?
+- **Tone:** does it match the taste boundary?
+- **Depth:** does it satisfy the intended reader without overexplaining?
+- **Language:** can sentences become simpler without losing meaning?
+- **Ending:** does it land the argument instead of merely stopping?
 
-Default to clear, direct, serious writing. Prefer plain words, short purposeful paragraphs, and technical language only when it improves precision. Be useful before impressive, grounded without becoming dry, and opinionated without becoming inflated.
+The draft is close when major structural, value, factual, tone, and promise-alignment objections are gone.
+
+## Style Defaults
+
+Default to clear, direct, serious writing.
+
+Start simple, then add depth. Put value early. Name the real tension. Use plain words where possible. Use technical language when it increases precision, not status. Prefer short paragraphs. Let each section do one job.
+
+The writing should feel useful before impressive, grounded without being dry, opinionated without being inflated, technical only when useful, and clear before clever.
+
+It should not feel generic, padded, overproduced, like a source summary, like vendor marketing, or like social media bait stretched into an article.
 
 ## Hooks
 
-A good hook clarifies the perspective or tension that earns attention. It may name a lived tension, reveal a pattern, open a useful question, or show a future state. Do not force a problem-solution opening when the piece is observational, analytical, or perspective-led.
+A good hook names the tension the reader already lives with or should recognize.
+
+Prefer hooks that make one clear point, open a useful question, show a future state or risk, and avoid exaggeration. If the hook feels clever but does not clarify the piece, replace it.
